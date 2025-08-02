@@ -1,1 +1,1 @@
-# Funrdaising_Dashboard_App
+# Fundraising_Dashboard_App
